@@ -1,2 +1,2 @@
 # SPOLER ALERT
-This repostiroy cotains whole answers to problems. Please, if you want to achive anything, don't look at full solutions
+This repostiroy cotains whole answers to some problems. If you want to find any enjoyment in solving the puzzles, don't look at any answers, 
